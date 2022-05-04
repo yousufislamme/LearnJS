@@ -1,6 +1,6 @@
 var want = "I wish everyone well";
 
-// lowerCase system
+// convert lowerCase system
 console.log(want.toLocaleLowerCase());
 
 // UpperCase system
