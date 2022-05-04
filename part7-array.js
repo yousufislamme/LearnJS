@@ -5,3 +5,5 @@ friendAge = friendAge.unshift('jalam');
 
 console.log(friendAge.length);
 console.log( friendAge);
+var buyerRequest = 215;
+var perDay = 10;
