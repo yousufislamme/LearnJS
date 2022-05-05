@@ -1,7 +1,7 @@
-var num = 100;
+var num = 1000;
 switch (num) {
    case 1000:
-      console.log("I'm 1000");
+      console.log("I'm so happy I got 1000 tk");
       break;
 
    case 100:
@@ -9,7 +9,7 @@ switch (num) {
       break;
    
    case 2:
-      console.log("I'm 20");
+      console.log("dui taka amar lagbona.");
       break;
    default:
       console.log("I don't know how are");
