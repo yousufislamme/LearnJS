@@ -14,7 +14,7 @@ function number(num1, num2) {
 
 }
 
-var push = number(7, 11);
+var push = number(170, 30);
 
 console.log(push);
 
