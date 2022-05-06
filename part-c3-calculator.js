@@ -5,6 +5,5 @@ function calculator(num) {
    }
    return factorial;
 }
-
 var result = calculator(6);
 console.log(result);
